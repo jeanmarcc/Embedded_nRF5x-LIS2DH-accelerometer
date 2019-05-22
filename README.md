@@ -22,10 +22,10 @@ Pinout:
 ## Main Functionality
 This firmware uses:
 
-- INT1 Pin to wake up the MCU
-- INT2 Pin to force sleep mode (after a defined duration)
+- INT1 PIN to wake up the MCU
+- INT2 PIN to force sleep mode (after a defined duration)
 
-These 2 features could be implemented using only INT1 Pin
+(These 2 features could be implemented using only INT1 PIN
 
 ## Built With
 
@@ -35,7 +35,6 @@ Keil V5
 Has been tested with nRF52-DK and custom board 
 
 ## Authors
-
-https://github.com/JohnMarcCA/
+https://github.com/johnmarcc
 
 
