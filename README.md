@@ -2,6 +2,16 @@
 
 LIS2DH accelerometer example with a **nRF5x** chip from **Nordic Semiconductor**
 
+
+## Main Functionality
+This firmware uses:
+
+- INT1 PIN to wake up the MCU
+- INT2 PIN to force sleep mode (after a defined duration)
+
+(These 2 features could be implemented using only INT1 PIN
+
+
 ## Getting Started
 
 Hardware: 
@@ -18,14 +28,6 @@ Pinout:
 
 ## Installing
 - for a quick demo, put this sketch in nRF5_SDK_15.0.0_a53641a\examples\peripheral\[Your_Project]
-
-## Main Functionality
-This firmware uses:
-
-- INT1 PIN to wake up the MCU
-- INT2 PIN to force sleep mode (after a defined duration)
-
-(These 2 features could be implemented using only INT1 PIN
 
 ## Built With
 
