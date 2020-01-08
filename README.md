@@ -1,6 +1,6 @@
 # Project Title
 
-LIS2DH accelerometer example with a nRF5x chip from **Nordic Semiconductor
+LIS2DH accelerometer example with a nRF5x chip from **Nordic Semiconductor**
 
 ## Getting Started
 
